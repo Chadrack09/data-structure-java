@@ -7,10 +7,10 @@ Data structure is the systematic way to organize data so that it can be used eff
 There are two types of data structures: Linear and Non-Linear Data Structures.
 
 ### Linear Data Structures
-A data structure is linear when all the elements are arranged in a linear (sequential) order.  Elements of linear data structures are one-and-each has predecessor and successor except for the Head and The Tail. Example of data structure will b: Array, ArrayList, Linked List, Queues and Stacks. Example of non-linear data structure will be Trees and Graphs. 
+A data structure is linear when all the elements are arranged in a linear (sequential) order.  Elements of linear data structures are one-and-each has predecessor and successor except for the Head and The Tail. Example of linear data structure will be: Array, ArrayList, Linked List, Queues and Stacks. 
 
 ### Non-Linear Data Structures
-A data structure is non-linear when all the elements are not arranged in a linear or sequential order. There is no linear arrangement of elements.
+A data structure is non-linear when all the elements are not arranged in a linear or sequential order. There is no linear arrangement of elements. Example of non-linear data structure will be Trees and Graphs. 
 
 ### Static vs Dynamic Data Structures
 #### Static Data Structure
