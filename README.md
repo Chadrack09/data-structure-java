@@ -22,6 +22,7 @@ In a doubly linked list navigation is both ways (forward and backward).
 
 #### 1.3. Circular Linked List
 In a circular Linked List the last element is linked to the first element. 
+![Circular Linked List](./src/main/img/circularLinkedList.png)
 
 ### 2. Stacks
 A Stack is a constrained version of a list. New nodes can be added to or removed from a stack only at the top; for this reason the Stack is referred to as Last-In and First-Out data structure. Primary methods for manipulating a stack are push and pop; which add a new node to the top of the stack and remove a node from the top of the stack.
