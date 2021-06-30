@@ -1,7 +1,6 @@
 # Data Structures Notes
-1. [Linked List](#sl)
 ## Commonly Used Data Structures
-### 1. Linked List {#s}
+### 1. Linked List
 Linked List are collections of data items "linked up in a chain",  insertion and deletion can be made anywhere in a linked list. Linked List are linear collection of self-referential class objects, called nodes, connected through reference links.  Typically a program accesses a linked list via a reference to its first node. The program accesses each subsequent node via the link reference stored in the previous node. 
 Data in a Linked List is stored and removed dynamically, the program creates and deletes nodes as necessary. 
 
@@ -12,7 +11,7 @@ Linked List can be maintained in sorted order simply by inserting each new eleme
 
 There are three types of Linked Lists, which are:
 
-#### 1.1. Singly Linked List {#sl}
+#### 1.1. Singly Linked List
 Linked List nodes normally are not stored contiguously in memory.  Navigation in a singly Linked List is forward only. There is no way of back-tracking.
 ![Singly Linked List](./src/main/img/singlyLinkedList.png)
 
