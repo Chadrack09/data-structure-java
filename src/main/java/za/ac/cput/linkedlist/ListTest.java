@@ -11,7 +11,7 @@ import java.util.LinkedList;
  * @since     28 Jun 2021 | 19:37:15
  */
 public class ListTest {
-
+    
     public static void main(String[] args) {
         
         List<Integer> list = new List<>();
