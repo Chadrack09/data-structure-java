@@ -13,10 +13,12 @@ There are three types of Linked Lists, which are:
 
 #### 1.1. Singly Linked List
 Linked List nodes normally are not stored contiguously in memory.  Navigation in a singly Linked List is forward only. There is no way of back-tracking.
+![Singly Linked List](./src/main/img/singlyLinkedList.png)
 
 
 #### 1.2. Doubly Linked List
 In a doubly linked list navigation is both ways (forward and backward).
+![Doubly Linked List](./src/main/img/doublyLinkedList.png)
 
 #### 1.3. Circular Linked List
 In a circular Linked List the last element is linked to the first element. 
