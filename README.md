@@ -72,9 +72,9 @@ The **right node** of root node is the first node in the right subtree, (also kn
 
 ![Tree data stucture](src/main/img/treeds.png)
 
-### 5. Graph
+### 5. Graph...
 
-~ Uncompledted
+~ Uncompleted
 ```
 Chaadrack B Boudzoumou
 Copyrights © 2021 - @Open Source
